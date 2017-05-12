@@ -5,27 +5,27 @@ body{
 
 h1{
    color: purple; 
-   font-family:dancing-script;
+   font-family:'Amatic SC', cursive;
    font-size:48px;
    text-align:center
 }
 
 h2{
-   font-family:Architects-daughter;
+   font-family:'Amatic SC', cursive;
    color:purple;
    font-size:28px;
-      text-align:center
+   text-align:center
 }
 
 h3{
-   font-family:Pacifico;
+   font-family:'Amatic SC', cursive;
    font-size:28px;
    color:purple;
    text-align:center
 }
 
 p{
-   font-family: Georgia;
+   font-family: 'Amatic SC', cursive;
    font-size: 20px;
    color: purple
       
